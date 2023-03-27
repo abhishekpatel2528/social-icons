@@ -1,4 +1,6 @@
-
+body{
+    background-color: gray;
+}
 
 .social-menu ul{
     position: absolute;
